@@ -1,0 +1,22 @@
+body{
+	background-image:url('https://i.pinimg.com/originals/31/5f/e7/315fe77cba5c29b4e7c1c673fee25724.gif');
+	background-color: skyblue;
+}
+div{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	border-style: solid;
+	border-width: 10px 0px 10px 0px;
+	border-color:white;
+	border-radius: 5%;
+
+}
+h1{
+	font-size: 100px;
+	color: darkblue;
+}
+img{
+	height: 50%;
+	width: 50%;
+}
